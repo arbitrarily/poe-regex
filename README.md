@@ -11,7 +11,7 @@ A collection of Path of Exile regex usable in search fields in game.
 > <pre>"sockets: ([rgbw]-){5}[rgbw]"</pre>
 
 > ### 6 Socket
-> "sockets: ([rgbw][ -]){5}[rgbw]"
+> <pre>"sockets: ([rgbw][ -]){5}[rgbw]"</pre>
 
 > ### Item Level 1-78
 > <pre>"item level: ([1-9]$|[1-6][0-9]$|7[0-8])"</pre>
