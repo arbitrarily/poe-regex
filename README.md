@@ -8,7 +8,7 @@ A collection of Path of Exile regex usable in search fields in game.
 ## Stash
 
 > ### 6 Link
-> <pre>"sockets: ([rgbw]-){5}[rgbw]"<p/re>
+> <pre>"sockets: ([rgbw]-){5}[rgbw]"</pre>
 
 > ### 6 Socket
 > "sockets: ([rgbw][ -]){5}[rgbw]"
