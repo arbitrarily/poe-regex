@@ -32,16 +32,16 @@ A collection of Path of Exile regex usable in search fields in game.
 > <pre>"ll g"</pre>
 
 > ### Physical damage
-> <pre>Glint|Heav<pre>
+> <pre>Glint|Heav</pre>
 
 > ### Flat Elemental Damage
-> <pre>Heat|roste|Humm<pre>
+> <pre>Heat|roste|Humm</pre>
 
 > ### Flat Spell Damage
 > <pre>"e to Sp"</pre>
 
 > ### Increased Spell Damage
-> <pre>Appre<pre>
+> <pre>Appre</pre>
 
 > ### Str/Dex
 > <pre>"!(^(str|dex))"</pre>
