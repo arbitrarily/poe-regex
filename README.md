@@ -56,13 +56,13 @@ A collection of Path of Exile regex usable in search fields in game.
 > <pre>"^str" "!(^dex)"</pre>
 
 > ### Strength & Dexterity Items
-> <pre>str: dex:<pre>
+> <pre>str: dex:</pre>
 
 > ### Strength & Intelligence Items
-> <pre>dex: str:<pre>
+> <pre>dex: str:</pre>
 
 > ### Dexteroty & Intelligence Items
-> <pre>dex: int:<pre>
+> <pre>dex: int:</pre>
 
 ---
 
