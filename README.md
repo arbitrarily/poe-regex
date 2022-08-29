@@ -1,4 +1,4 @@
-# Path of Exile Regen Collection
+# Path of Exile Regex Collection
 A collection of Path of Exile regex usable in search fields in game.
 
 ---
